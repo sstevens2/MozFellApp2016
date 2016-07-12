@@ -31,7 +31,7 @@ Additionally, I am involved in teaching Software Carpentry workshops.  I've taug
 I look forward to the opportunity develop other open science projects!
 
 ### How do you see Mozilla advancing your work? (50 words)  
-This fellowship would allow me to focus more on developing computational skills that would be helpful both in my research.
+This fellowship would allow me to expand my study groups on campus and raise more awareness for these resources.
 My work will also benefit from the opportunity to meet people I can learn from and people who are just getting started in open science.
 
 ### What do you see as the opportunities for impact around open research at your university? Could you leverage this opportunity in a potential project? (50 words)
