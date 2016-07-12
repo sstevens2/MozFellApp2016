@@ -27,12 +27,11 @@ I've developed as a researcher and instructor by teaching Software Carpentry wor
 
 ### Are you leading any projects related to open science? (100 words)  
 In 2014, I started a group on my campus to facilitate researchers helping each other improve their computational skills.  We also host study groups for R and python.  I was very excited to see the resources provided by Mozilla study groups and I now join the monthly study group calls.
-Additionally, I am involved in teaching Software Carpentry workshops.  I've taught a number on my campus and have helped put together another at a nearby campus.  I also made installation videos to help students install the prerequisite software.
+Additionally, I am involved in teaching Software Carpentry workshops.  I've taught a number on my campus and have helped put together another at a nearby campus.  I also made installation videos to help students install the requisite software.
 I look forward to the opportunity develop other open science projects!
 
 ### How do you see Mozilla advancing your work? (50 words)  
-In my research, I'm always learning new skills very quickly and not throughly.
-This fellowship would allow me to focus more on developing these skills.
+This fellowship would allow me to focus more on developing computational skills that would be helpful both in my research.
 My work will also benefit from the opportunity to meet people I can learn from and people who are just getting started in open science.
 
 ### What do you see as the opportunities for impact around open research at your university? Could you leverage this opportunity in a potential project? (50 words)
