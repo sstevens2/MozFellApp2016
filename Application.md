@@ -22,10 +22,8 @@ We collaborate with many researchers at other Universities and government labs.
 Open science is a key part of my work starting at the sample collection.
 All of my samples are collected as part of a Long Term Ecological Research (LTER) project and the samples I work with are sequenced by the DOE's Joint Genome Institute.
 Both of these organizations require the data be made public.
-
-Open science has also been instrumental in my own development as a researcher.
-I've learned so much teaching Software Carpentry workshops and from open lessons or scripts.
-My research also depends on many pieces of open source software, without which my research would be much harder.
+My research also depends on many pieces of open source software, without which I would have to spend extra effort to produce the results.
+I've developed as a researcher and instructor by teaching Software Carpentry workshops, where I also learned to do more reproducible research.
 
 ### Are you leading any projects related to open science? (100 words)  
 In 2014, I started a group on my campus to facilitate researchers helping each other improve their computational skills.  We also host study groups for R and python.  I was very excited to see the resources provided by Mozilla study groups and I now join the monthly study group calls.
