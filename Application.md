@@ -8,7 +8,7 @@ Author: Sarah Stevens
 computational biology, microbiology, genomics, microbial ecology, microbial evolution, population biology
 
 ### What is your research focus? (50 words)  
-My research aims to better understand the forces governing diversity and community structure for populations of lake microbes.
+My research aims to better understand the forces governing diversity and community structure for populations of lake microbes over time, using a long-term dataset.
 I do so using methods not biased by what can be grown in the lab, such as metagenomics and single cell genomics.
 
 ### Describe to us your current research team. (50 words)  
