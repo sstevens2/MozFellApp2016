@@ -12,9 +12,9 @@ My research aims to better understand the forces governing diversity and communi
 I do so using methods not biased by what can be grown in the lab, such as metagenomics and single cell genomics.
 
 ### Describe to us your current research team. (50 words)  
-I am a PhD Candidate in an academic lab.
+I am a PhD Candidate in an academic lab that studies the microbial ecology of both natural(lakes) and engineered(wastewater) systems.
 Our lab currently consists of thirteen graduate students(including me!), one post-doctoral researcher, one assistant scientist, and one AMAZING professor.
-I often help out by teaching others computation and dealing with some administrative details since we have so many graduate students.
+
 
 ### Describe to us how open science advances your research. (100 words)  
 Open science is a key part of my work starting at the sample collection.
