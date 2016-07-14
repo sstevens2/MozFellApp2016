@@ -39,8 +39,8 @@ This fellowship would allow me to expand my study groups on campus and raise mor
 My work will also benefit from the opportunity to meet people I can learn from and people who are just getting started in open science.
 
 ### What do you see as the opportunities for impact around open research at your university? Could you leverage this opportunity in a potential project? (50 words)
-For one, I'd like to start a seminar series addressing questions, suggesting tools, and generally promoting open science.
-Additionally I'd like to publicize this series and my study groups by giving talks at existing local symposia.
+I would start a seminar series/class addressing questions, suggesting tools, and promoting open science.
+I would leverage university professional development initiatives to help researchers adopt reproducible and open research practices by giving talks at existing symposia.
 The materials I assemble could be reused at other campuses to promote open science.
 
 ### What do you think needs to change most immediately in scientific research? (100 words)
