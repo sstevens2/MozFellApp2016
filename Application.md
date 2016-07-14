@@ -40,8 +40,8 @@ It would be a chance to develop my communication and technology skills in open s
 I anticipate the opportunity to meet and work with others who are also excited about open science.
 
 ### What do you see as the opportunities for impact around open research at your university? Could you leverage this opportunity in a potential project? (50 words)
-I would start a seminar series/class addressing questions, suggesting tools, and promoting open science.
-I would leverage university professional development initiatives to help researchers adopt reproducible and open research practices by giving talks at existing symposia.
+I would start a seminar series or class addressing questions, suggesting tools, and promoting open science to early career researchers.
+This would leverage university professional development initiatives and help scientists adopt reproducible and open research practices.
 The materials I assemble could be reused at other campuses to promote open science.
 
 ### What do you think needs to change most immediately in scientific research? (100 words)
