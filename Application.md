@@ -52,4 +52,4 @@ It is a particularly impactful project and there is such a strong community supp
 I'm also inspired by the semester long open science/reproducible research classes developed and taught by Christie Bahlai and Karl Broman.
 
 ### Why is the the open web important to you? (25 words)
-The level playing field and community support provided by the open web are an important resource for anyone who is curious and especially scientists.
+The level playing field and community support provided by the open web are an important resource for anyone who is curious, especially scientists.
