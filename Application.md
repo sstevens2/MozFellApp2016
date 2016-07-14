@@ -19,10 +19,10 @@ We collaborate with many researchers at other universities and government labs.
 
 
 ### Describe to us how open science advances your research. (100 words)  
-Open science is a key part of my work starting at the sample collection.
+Open science is a key part of my work, starting at the sample collection.
 All of my samples are collected as part of a Long Term Ecological Research (LTER) project and the samples I work with are sequenced by the DOE's Joint Genome Institute.
-Both of these organizations require the data be made public.
-My research also depends on many pieces of open source software, without which I would have to spend extra effort to produce the results.
+Both of these organizations require the data be made publicly available.
+Open source software is a vital part of my research, it allows me to leverage other researcher's expertise and an online support community.
 Additionally, I've developed as a researcher and instructor by teaching Software Carpentry workshops, where I also learned to do more reproducible research.
 
 ### Are you leading any projects related to open science? (100 words)  
