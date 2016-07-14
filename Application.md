@@ -35,8 +35,9 @@ Furthermore, I have made videos to help students prepare for the workshops by gu
 I look forward to the opportunity develop other open science projects!
 
 ### How do you see Mozilla advancing your work? (50 words)  
-This fellowship would allow me to expand my study groups on campus and raise more awareness for these resources.
-My work will also benefit from the opportunity to meet people I can learn from and people who are just getting started in open science.
+This fellowship would allow me to expand my study groups on campus and raise awareness for these resources.
+It would be a chance to develop my communication and technology skills in open science.
+I anticipate the opportunity to meet and work with others who are also excited about open science.
 
 ### What do you see as the opportunities for impact around open research at your university? Could you leverage this opportunity in a potential project? (50 words)
 I would start a seminar series/class addressing questions, suggesting tools, and promoting open science.
