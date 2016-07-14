@@ -8,8 +8,9 @@ Author: Sarah Stevens
 computational biology, microbiology, genomics, microbial ecology, microbial evolution, population biology
 
 ### What is your research focus? (50 words)  
-Due to microbes' preeminent influence in our world, the microbiomes of both humans and our environment have captured both public and scientific interest.
-My research aims to better understand the forces governing diversity and community structure for microbial populations in the lake over time, using a long-term dataset.
+Microbes are a preeminent influence in the lives of humans and our environment
+Recently, the microbiome has captured both public and scientific interest.
+My research aims to better understand the forces governing diversity and community structure for microbial populations in the lake over time, using a long-term genomic dataset.
 
 ### Describe to us your current research team. (50 words)  
 I am a PhD Candidate in an academic lab that studies the microbiome of both lakes and wastewater systems.
