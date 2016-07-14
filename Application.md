@@ -12,10 +12,9 @@ My research aims to better understand the forces governing diversity and communi
 I do so using methods not biased by what can be grown in the lab, such as metagenomics and single cell genomics.
 
 ### Describe to us your current research team. (50 words)  
-I am a PhD Candidate in an academic lab that studies the microbiome of both natural(lakes) and engineered(wastewater) systems.
-Our lab currently consists of thirteen graduate students(including me!), one post-doctoral researcher, one assistant scientist, and one principal investigator.
-We collaborate with many researchers at other Universities and government labs.
-
+I am a PhD Candidate in an academic lab that studies the microbiome of both lakes and wastewater systems.
+Our lab currently consists of thirteen graduate students (including me!), one post-doctoral researcher, one assistant scientist, and one principal investigator.
+We collaborate with many researchers at other universities and government labs.
 
 
 ### Describe to us how open science advances your research. (100 words)  
