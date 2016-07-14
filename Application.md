@@ -47,7 +47,8 @@ The materials I assemble could be reused at other campuses to promote open scien
 In the life sciences especially, we are starved for computational training.  Sequencing has made biology more and more data driven, yet the training has not kept up.  Most biology students have no computational training upon starting graduate school but most will have to learn at least some bioinformatics in order to carry out their research.  I've seen my classmates and labmates struggle to learn or avoid learning the computational skills they need to do their work.  We need more early training and better support for scientists who are learning.  I hate for anyone to struggle through learning these skills alone.
 
 ### What project in the field do you find most inspiring to further science and the web? (50 words)
-I'm very inspired by Software and Data Carpentry.  It is a very impactful project and there is such a strong community supporting the development of new lesson materials.
+I'm continually inspired by Software and Data Carpentry.
+It is a particularly impactful project and there is such a strong community supporting the development of new lesson materials. 
 I'm also inspired by the semester long open science/reproducible research classes developed and taught by Christie Bahlai and Karl Broman.
 
 ### Why is the the open web important to you? (25 words)
