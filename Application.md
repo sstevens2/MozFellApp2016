@@ -26,8 +26,12 @@ Open source software is a vital part of my research, it allows me to leverage ot
 Additionally, I've developed as a researcher and instructor by teaching Software Carpentry workshops, where I also learned to do more reproducible research.
 
 ### Are you leading any projects related to open science? (100 words)  
-In 2014, I started a group on my campus to facilitate researchers helping each other improve their computational skills.  We also host study groups for R and python.  I was very excited to see the resources provided by Mozilla study groups and I now join the monthly study group calls.
-Additionally, I am involved in teaching Software Carpentry workshops.  I've taught a number on my campus and have helped put together another at a nearby campus.  I also made installation videos to help students install the requisite software.
+In 2014, I started a group on my campus to facilitate researchers helping each other improve their computational skills.
+We also host study groups for R and python.
+I was very excited to see the resources provided by Mozilla study groups and I now join the monthly study group calls.
+I am an instructor for Software Carpentry workshops.
+I have taught several workshops both on my campus and at nearby campuses.
+Furthermore, I have made videos to help students prepare for the workshops by guiding them through software installation.
 I look forward to the opportunity develop other open science projects!
 
 ### How do you see Mozilla advancing your work? (50 words)  
