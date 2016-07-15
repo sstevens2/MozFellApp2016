@@ -8,7 +8,7 @@ Author: Sarah Stevens
 computational biology, microbiology, genomics, microbial ecology, microbial evolution, population biology
 
 ### What is your research focus? (50 words)  
-Microbes are a preeminent influence in the lives of humans and our environment
+Microbes are a preeminent influence in the lives of humans and our environment.
 Recently, the microbiome has captured both public and scientific interest.
 My research aims to better understand the forces governing diversity and community structure for microbial populations in the lake over time, using a long-term genomic dataset.
 
@@ -49,7 +49,7 @@ In the life sciences especially, we are starved for computational training.  Seq
 
 ### What project in the field do you find most inspiring to further science and the web? (50 words)
 I'm continually inspired by Software and Data Carpentry.
-It is a particularly impactful project and there is such a strong community supporting the development of new lesson materials. 
+It is a particularly impactful project and there is such a strong community supporting the development of new lesson materials.
 I'm also inspired by the semester long open science/reproducible research classes developed and taught by Christie Bahlai and Karl Broman.
 
 ### Why is the the open web important to you? (25 words)
